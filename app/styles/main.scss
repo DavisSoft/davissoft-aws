@@ -102,10 +102,13 @@ body {
 .full-width-image-margins {
   margin: 20px;
 }
-
 .indented {
-  margin: 20px 0;
+  margin: 10px 0;
   p + h4 {
-    margin-top: 18px;
+    margin-top: 10px;
   }
+}
+.fixed {
+  width: auto;
+  height:80px;
 }
